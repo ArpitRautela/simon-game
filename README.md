@@ -2,6 +2,8 @@
 
 A simple Simon Game built with HTML, CSS, and JavaScript. The game is a fun memory skill game where players are challenged to repeat a sequence of colors after they are shown, with the sequence growing longer as the game progresses.
 
+LiveLink : https://arpitrautela.github.io/simon-game/
+
 ## Features
 - Interactive UI with colorful buttons
 - Sound effects for correct and incorrect moves
