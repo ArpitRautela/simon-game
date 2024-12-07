@@ -24,3 +24,7 @@ A simple Simon Game built with HTML, CSS, and JavaScript. The game is a fun memo
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/simon-game.git
+
+
+![Screenshot 2024-12-07 232734](https://github.com/user-attachments/assets/0494e907-048f-4a94-b8f3-c4069c208121)
+
